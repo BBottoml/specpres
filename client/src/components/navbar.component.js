@@ -4,7 +4,7 @@ import { Button } from 'react-bootstrap';
 import Card from 'react-bootstrap/Card';
 import Row from 'react-bootstrap/Row';
 import CardGroup from 'react-bootstrap/CardGroup'
-import paintBrush from '/images/paintbrushlogo.jpg'
+import paintBrush from '../images/paintbrushlogo.jpg'
 
 export default class Navbar extends Component {
     render() {
