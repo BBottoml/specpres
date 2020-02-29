@@ -8,7 +8,7 @@ import DragDropTest from '.components/DragDropTest.component';
 function App() {
   return (
       <div>
-        <DragDropTest />
+        <Navbar />
         <Router>
 
         </Router>
